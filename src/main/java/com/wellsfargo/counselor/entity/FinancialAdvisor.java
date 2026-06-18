@@ -1,4 +1,4 @@
-package com.wellsfargo.counselor;
+package com.jpmc.midascore.entity;
 
 import jakarta.persistence.*;
 import java.util.List;

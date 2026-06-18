@@ -1,4 +1,4 @@
-package com.wellsfargo.counselor;
+package com.wellsfargo.counselor.entity;
 
 import jakarta.persistence.*;
 
@@ -94,3 +94,4 @@ public class Client {
         this.portfolio = portfolio;
     }
 }
+

@@ -1,4 +1,4 @@
-package com.wellsfargo.counselor;
+package com.wellsfargo.counselor.entity;
 
 import java.time.LocalDate;
 
@@ -102,3 +102,4 @@ public class Security {
         this.portfolio = portfolio;
     }
 }
+
