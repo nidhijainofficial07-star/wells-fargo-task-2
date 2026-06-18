@@ -45,4 +45,8 @@ public class Portfolio {
     public void setSecurities(List<Security> securities) {
         this.securities = securities;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 5ca231fc0d0449bb8275d7a8c0d44202e42fa527

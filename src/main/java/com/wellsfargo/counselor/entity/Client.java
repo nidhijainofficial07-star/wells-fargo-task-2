@@ -94,3 +94,7 @@ public class Client {
         this.portfolio = portfolio;
     }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5ca231fc0d0449bb8275d7a8c0d44202e42fa527

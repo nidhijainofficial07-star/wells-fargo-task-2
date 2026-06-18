@@ -1,13 +1,7 @@
 package com.wellsfargo.counselor.entity;
 
+import jakarta.persistence.*;
 import java.util.List;
-
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.OneToMany;
 
 @Entity
 public class FinancialAdvisor {
@@ -74,4 +68,8 @@ public class FinancialAdvisor {
     public void setClients(List<Client> clients) {
         this.clients = clients;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 5ca231fc0d0449bb8275d7a8c0d44202e42fa527
